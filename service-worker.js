@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/3DPrinting/precache-manifest.77274472e2d6b2535b67fdbbd8fec59e.js"
+  "/3DPrinting/precache-manifest.8c46580fd87b386d6ea78f12bb8a44de.js"
 );
 
 self.addEventListener('message', (event) => {
